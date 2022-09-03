@@ -1,3 +1,3 @@
 # iamdtms
 
-CSS, JavaScript, HTML, UI Design, jQuery, Figma, Adobe Photoshop, SCSS, Web Standards, Branding & Identity, Responsive Web Design, Typography, Usability, UX, TWBS, Grid Layout, Pug JS, Emmet, Accessibility, CLI, Typography, 11ty, CSP
+CSS3, JavaScript, HTML5, UI Design, Figma, Adobe Photoshop, SCSS, Web Standards, Branding, Identity, RWD, Typography, Usability, UX Design, Grid Layout, Pug JS, Emmet, Accessibility, CLI, Typography, 11ty, CSP
