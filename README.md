@@ -1,4 +1,4 @@
-# iamdtms (Dohány Tamás)
+# iamdtms - Dohány Tamás
 
 Hi, I'm Tom. I'm an IT specialist & web/frontend designer. 
 
