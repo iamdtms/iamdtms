@@ -1,7 +1,9 @@
 # iamdtms (Dohány Tamás)
 
-Hi, I'm Thomas. I'm an IT specialist & a web/frontend designer. Since I was a boy, I have been amazed by many aspects of information technology and the world of web graphics.
+Hi, I'm Tom. I'm an IT specialist & web/frontend designer. 
 
-#UI, #UX, #CSS, #Javascript, #HTML, #Photoshop, #WebStandards, #Identity, #RWD, #Typography, #Usability, #Emmet, #Accessibility, #CLI, #CSP, #11ty, #Wordpress
+Since I was a boy, I have been amazed by many aspects of information technology and the world of web graphics.
 
-#Android, #VPN, #Security, #openSource, #Linux, #Mint, #Ubuntu, #Windows, #Users, #GIT, #Netlify
+#UI, #Identity, #Photoshop, #RWD, #Typography, #UX, #Usability, #Accessibility, #CSS, #Javascript, #HTML, #WebStandards, #Emmet
+
+#Administration, #Software, #Android, #VPN, #CLI, #Security, #CSP, #openSource, #Linux, #Mint, #Ubuntu, #Windows, #Users, #GIT, #Netlify, #11ty
