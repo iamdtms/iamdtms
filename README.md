@@ -6,6 +6,6 @@ Hi. I'm an IT specialist with senior frontend designer skills. Since I was a boy
 #UI - #Identity, #RWD, #Grid, #Layout, #Typography, #Photoshop 
 #UX - #Usability, #Accessibility
 #Frontend - #CSS, #HTML, #jQuery, #WebStandards
-#WEB - #CSP, #Netlify, #GIT, #11ty, #Wordpress 
+#WEB - #CSP, #Netlify, #GIT, #11ty, #Wordpress, #LightHouse
 #IT - #PC, #Android, #Ubuntu, #Windows, #VPN, #CLI, #Security, #Users
 ```
