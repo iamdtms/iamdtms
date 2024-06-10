@@ -7,5 +7,5 @@ Hi. I'm an IT specialist with frontend designer skillset. Since I was a boy, I h
 #UX - #Usability, #Accessibility
 #Frontend - #CSS, #HTML, #jQuery, #WebStandards, #i18n
 #Web - #CSP, #Netlify, #GIT, #11ty, #Wordpress, #Lighthouse, #Pagespeed
-#IT - #PC, #Android, #Ubuntu, #Windows, #VPN, #CLI, #Security, #Users
+#IT - #PC, #Android, #Ubuntu, #LinuxMint, #Windows, #VPN, #CLI, #Security, #Users
 ```
