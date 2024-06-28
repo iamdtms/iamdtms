@@ -1,4 +1,4 @@
-# iamdtms (Dohány Tamás)
+# 𝕚𝕒𝕞𝕕𝕥𝕞𝕤 (Dohány Tamás)
 
 I'm Tom. An IT specialist with advanced frontend designer skillset. Since I was a boy, I have been amazed by many aspects of information technology and the world of web graphics.
 
