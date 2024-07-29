@@ -1,6 +1,6 @@
 # 𝕚𝕒𝕞𝕕𝕥𝕞𝕤
 
-I'm Tom. An IT specialist with advanced frontend designer skillset. Since I was a boy, I have been amazed by many aspects of information technology and the world of web graphics.
+An IT specialist with advanced frontend designer skillset. Since I was a boy, I have been amazed by many aspects of information technology and the world of web graphics.
 
 ```
 #UI - #Identity, #Flex, #Grid, #CQ, #MQ, #Typography, #Photoshop 
