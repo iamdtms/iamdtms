@@ -6,7 +6,7 @@ A Hungarian IT Specialist and Frontend Designer. He has a strong background in v
 
 ```
 #UI - #Identity, #Typography, #Photoshop, #GIMP
-#UX - #Usability, #Accessibility, #HighContrast, #themeSwitcher
+#UX - #Usability, #Accessibility, #themeSwitcher
 #Frontend - #CSS, #Flexbox, #GridSystem, #CQ, #MQ, #HTML, #jQuery, #ES5, #WebStandards, #i18n
 #Web - #CSP, #Netlify, #GIT, #11ty, #Bootstrap, #Wordpress, #Lighthouse, #Pagespeed
 #IT - #PC, #Android, #Ubuntu, #LinuxMint, #Windows, #VPN, #CLI, #Security, #Users
