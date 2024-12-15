@@ -1,4 +1,4 @@
-# iamdtms
+# Dohány Tamás
 
 🎨 senior frontend designer 💻 information technology specialist
 
