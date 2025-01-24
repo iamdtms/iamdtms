@@ -12,5 +12,5 @@ He appears to be actively engaged in both professional IT endeavors and creative
 #UIUX - #Identity, #Typography, #Usability, #Accessibility
 #Frontend - #CSS, #HTML, #jQuery, #ES5, #WebStandards, #i18n
 #Web - #CSP, #Netlify, #GIT, #11ty, #Wordpress, #Lighthouse, #Pagespeed
-#IT - #PC, #Android, #Ubuntu, #LinuxMint, #Windows, #VPN, #CLI, #Security, #Users
+#IT - #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Users
 ```
