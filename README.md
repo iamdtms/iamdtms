@@ -1,6 +1,6 @@
 # Dohány Tamás
 
-🎨 frontend designer 💻 information technology specialist
+🎨 web/frontend designer 💻 web/IT specialist
 
 He has a strong background in various aspects of information technology and web design, showcasing his work on platforms like GitHub, CodePen and Medium. 
 
