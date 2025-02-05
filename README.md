@@ -9,8 +9,9 @@ His skills span across UI/UX design, web development, and IT infrastructure, wit
 He appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
 ```
-#UIUX - #Identity, #Typography, #Usability, #Accessibility
+#UIUX - #Identity, #Typography, #Usability, #Accessibility, #Layouts
 #Frontend - #CSS, #HTML, #jQuery, #ES5, #WebStandards, #i18n
-#Web - #CSP, #Netlify, #GIT, #11ty, #CMS, #Lighthouse, #Pagespeed
+#Web - #CSP, #GIT, #CMS, #Lighthouse, #Pagespeed, #Performance
 #IT - #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Users
+
 ```
