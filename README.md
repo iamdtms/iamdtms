@@ -24,6 +24,6 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Elk Hungarian translation repository.
 
-[gists](https://gist.github.com/iamdtms) - Frontend code segments available.
+[gists](https://gist.github.com/iamdtms) - Code segments available here.
 
 [quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding.
