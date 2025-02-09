@@ -27,3 +27,6 @@ He appears to be actively engaged in both professional IT endeavors and creative
 [gists](https://gist.github.com/iamdtms) - Code segments available here.
 
 [quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding.
+
+[CSV-parser-template](https://github.com/iamdtms/CSV-parser-template) - A CSV parser template (container).
+
