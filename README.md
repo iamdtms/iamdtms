@@ -22,11 +22,13 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds. Frequently updated.
 
-[elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Elk Hungarian translation repository.
+[elk-hungarian](https://github.com/iamdtms/elk-hungarian) - [Elk](https://elk.zone) Hungarian translation repository.
 
-[gists](https://gist.github.com/iamdtms) - Code segments available here.
+[bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - [bootscore.me](https://bootscore.me) Hungarian translation repository.
 
-[quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding.
+[Gists](https://gist.github.com/iamdtms) - Code segments available here.
+
+[quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding. A GUI-challanges fork. 
 
 [CSV-parser-template](https://github.com/iamdtms/CSV-parser-template) - A CSV parser template (container).
 
