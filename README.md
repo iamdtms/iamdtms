@@ -20,7 +20,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## Projects
 
-[iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An Outline Processor Markup Language export of feeds. Frequently updated.
+[iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds. Frequently updated.
 
 [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Elk Hungarian translation repository.
 
