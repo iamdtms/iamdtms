@@ -21,6 +21,9 @@ He appears to be actively engaged in both professional IT endeavors and creative
 ## Projects
 
 [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An Outline Processor Markup Language export of feeds. Frequently updated.
+
 [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Elk Hungarian translation repository.
+
 [gists](https://gist.github.com/iamdtms) - Frontend code segments. An app-loading-indicator, and theme-switcher-template available.
+
 [quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding.
