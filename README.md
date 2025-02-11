@@ -22,9 +22,9 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds. Frequently updated.
 
-[elk-hungarian](https://github.com/iamdtms/elk-hungarian) - [elk.zone](https://elk.zone) Hungarian translation repository.
+[elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone).
 
-[bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - [bootscore.me](https://bootscore.me) Hungarian translation repository.
+[bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - Hungarian translation repository of [bootscore.me](https://bootscore.me).
 
 [Gists](https://gist.github.com/iamdtms) - Code segments available here.
 
