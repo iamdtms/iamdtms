@@ -12,7 +12,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ```
 🦄 #Design - #UI, UX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #Lightdark, #Colours
-🧑‍💻 #Frontend - #Web, #MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
+🧑‍💻 #Frontend - #MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
 💻 #IT - #PC, #Android, #Linux, #Windows, #Mac, #iOS, #VPN, #CLI, #Security, #Software, #Helping, #Users, #Operation
 
 ```
