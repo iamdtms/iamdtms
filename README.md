@@ -11,7 +11,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 ## Tags 
 
 ```
-🦄 #Design - #UI, UX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #Lightdark, #Colours
+🦄 #Design - #UI, #UX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #Lightdark, #Colours
 
 🧑‍💻 #Frontend - #MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
 
