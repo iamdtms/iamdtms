@@ -8,17 +8,6 @@ His skills span across UI/UX design, web development, and IT infrastructure, wit
 
 He appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
-## Tags 
-
-```
-🦄 #Design - #UI, #UX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours, #HtmlEmails
-
-🧑‍💻 #Frontend - #MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
-
-💻 #IT - #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
-
-```
-
 ## Three levels of knowledge
 
 🦄 hybrid designer 
