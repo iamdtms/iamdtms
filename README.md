@@ -12,12 +12,12 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ### 🦄 hybrid designer 
 ```
-#UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours, #HtmlEmails
+#UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
 
 ### 🧑‍💻 frontend technologist
 ```
-#MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Frontend, #Tooling
+#MVC, #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Frontend, #Tooling
 ```
 
 ### 💻 IT specialist
