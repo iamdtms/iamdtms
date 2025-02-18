@@ -11,22 +11,16 @@ He appears to be actively engaged in both professional IT endeavors and creative
 ## Three levels of knowledge
 
 ### 🦄 hybrid designer 
-
-How UIUX designer & frontend designer could be a hybrid/unicorn designer? Web Designer vs. Frontend Designer 2. R.I.P. Webdesign
 ```
 #UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours, #HtmlEmails
 ```
 
 ### 🧑‍💻 frontend technologist
-
-Frontend Performance Tooling: Lighthouse, Pagespeed, Image Performance, etc. Personal GitHub starred repositories available. 
 ```
 #MVC, #CSS, #HTML, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Frontend, #Tooling
 ```
 
 ### 💻 IT specialist
-
-Operating, managing, preloading configurations, etc. 
 ```
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users, #Operation
 ```
