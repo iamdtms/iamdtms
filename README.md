@@ -22,7 +22,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ### 💻 IT specialist
 ```
-#PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users, #Operation
+#PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
 
 ## Projects
