@@ -8,7 +8,7 @@ His skills span across UI/UX design, web development, and IT infrastructure, wit
 
 He appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
-## Three levels of knowledge
+## Levels of knowledge
 
 ### 🦄 hybrid designer 
 ```
