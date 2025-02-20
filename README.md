@@ -17,7 +17,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ### 🧑‍💻 frontend technologist
 ```
-#MVC, #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Frontend, #Tooling
+#MVC, #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
 ```
 
 ### 💻 IT specialist
