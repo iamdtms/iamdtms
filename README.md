@@ -25,6 +25,11 @@ He appears to be actively engaged in both professional IT endeavors and creative
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
 
+### 🧳CMS
+```
+#Prestashop, #Magento, #Wordpress, #Drupal, #11ty, #Liferay
+```
+
 ## Projects
 
 [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds. Frequently updated.
