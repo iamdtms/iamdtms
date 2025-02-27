@@ -12,7 +12,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ### 🦄 web designer 
 ```
-#UI, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
+#UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
 
 ### 🧑‍💻 frontend technologist
