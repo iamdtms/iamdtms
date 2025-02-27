@@ -10,7 +10,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## Levels of knowledge
 
-### 🦄 designer for the web 
+### 🦄 designer (for the web) 
 ```
 #UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
