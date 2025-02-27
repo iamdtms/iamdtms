@@ -10,9 +10,9 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## Levels of knowledge
 
-### 🦄 hybrid designer 
+### 🦄 CSS designer 
 ```
-#UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
+#UI, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
 
 ### 🧑‍💻 frontend technologist
