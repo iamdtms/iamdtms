@@ -15,7 +15,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 #UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
 
-### 🧑‍💻 frontend technologist
+### 🧑‍💻 frontend advisor
 ```
 #MVC, #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #CMS, #Performance, #Tooling
 ```
