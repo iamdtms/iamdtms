@@ -8,17 +8,17 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## Levels of knowledge
 
-### 🎨 designer (for the web) 
+### 🎨 design
 ```
 #UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
 
-### 🧑‍💻 frontend advisor
+### 🧑‍💻 frontend
 ```
 #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #Performance, #Tooling
 ```
 
-### 💻 L1 - L2 sysadmin & support specialist
+### 💻 sysadmin & support specialist
 ```
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
