@@ -25,7 +25,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## Projects
 
-[iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds. Frequently updated.
+[iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds.
 
 [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone).
 
