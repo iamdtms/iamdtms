@@ -23,7 +23,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
 
-## Projects
+## 📊 Projects
 
 [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds.
 
