@@ -31,7 +31,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 [bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - Hungarian translation repository of [bootscore.me](https://bootscore.me).
 
-[Gists](https://gist.github.com/iamdtms) - Code segments available here.
+[gists](https://gist.github.com/iamdtms) - Code segments available here.
 
 [quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding. A GUI-challanges fork. 
 
