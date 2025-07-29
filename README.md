@@ -25,18 +25,18 @@ He appears to be actively engaged in both professional IT endeavors and creative
 
 ## 📊 Projects
 
-[iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds.
+- [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds.
 
-[elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone).
+- [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone).
 
-[bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - Hungarian translation repository of [bootscore.me](https://bootscore.me).
+- [bootscore-hungarian](https://github.com/iamdtms/bootscore-hungarian) - Hungarian translation repository of [bootscore.me](https://bootscore.me).
 
-[gists](https://gist.github.com/iamdtms) - Code segments available here.
+- [gists](https://gist.github.com/iamdtms) - Code segments available here.
 
-[quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding. A GUI-challanges fork. 
+- [quote-carousel](https://github.com/iamdtms/quote-carousel) - A component for quoted text sliding. A GUI-challanges fork. 
 
-[CSV-parser-template](https://github.com/iamdtms/CSV-parser-template) - A CSV parser template (container).
+- [CSV-parser-template](https://github.com/iamdtms/CSV-parser-template) - A CSV parser template (container).
 
-[elk-hu](https://github.com/iamdtms/elk-hu) - Elk Magyarország: Egy fürge Mastodon kliens
+- [elk-hu](https://github.com/iamdtms/elk-hu) - Elk Magyarország: Egy fürge Mastodon kliens
 
-[htmlemoji](https://github.com/iamdtms/htmlemoji) - HTMLemoji - copy &amp; paste
+- [htmlemoji](https://github.com/iamdtms/htmlemoji) - HTMLemoji - copy &amp; paste
