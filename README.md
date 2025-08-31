@@ -1,3 +1,5 @@
+![!iamdtms](iamdtmshu.png)
+
 ## 👤 About me 
 
 [iamdtms](https://iamdtms.hu) has a strong background in various aspects of information technology and web design, showcasing his work on platforms like GitHub, CodePen and Medium. 
@@ -40,3 +42,5 @@ He appears to be actively engaged in both professional IT endeavors and creative
 - [elk-hu](https://github.com/iamdtms/elk-hu) - Elk Magyarország: Egy fürge Mastodon kliens
 
 - [htmlemoji](https://github.com/iamdtms/htmlemoji) - HTMLemoji - copy &amp; paste
+
+- [mint-y-icons](https://github.com/iamdtms/mint-y-icons) - The Mint-Y icon theme (PR repo)
