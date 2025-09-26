@@ -42,3 +42,5 @@ He appears to be actively engaged in both professional IT endeavors and creative
 - [htmlemoji](https://github.com/iamdtms/htmlemoji) - HTMLemoji - copy &amp; paste
 
 - [mint-y-icons](https://github.com/iamdtms/mint-y-icons) - The Mint-Y icon theme (PR repo)
+
+- [CSS-base-set](https://github.com/iamdtms/CSS-base-set) - A Cascade Layer CSS base set
