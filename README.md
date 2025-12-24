@@ -8,6 +8,8 @@ His skills span across UI/UX design, web development, and IT infrastructure, wit
 
 He appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
+![decor](https://github.com/iamdtms/iamdtms/blob/main/iamdtms-decor.png)
+
 ## 🪜 Levels of knowledge
 
 ### 🎨 design
