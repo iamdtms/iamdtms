@@ -9,22 +9,18 @@ His skills span across UI/UX design, web development, and IT infrastructure, wit
 He appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
 ## 🪜 Levels of knowledge
-
 ### 🎨 design
 ```
 #UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
 ```
-
 ### 🧑‍💻 frontend
 ```
 #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #Performance, #Tooling
 ```
-
 ### 💻 sysadmin & support
 ```
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
-
 ## 📊 Public repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds
