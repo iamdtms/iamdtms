@@ -25,9 +25,6 @@ He appears to be actively engaged in both professional IT endeavors and creative
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
 
-![decor](https://github.com/iamdtms/iamdtms/blob/main/iamdtms-decor.png)
-
-
 ## 📊 Public repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - An OPML export of feeds
