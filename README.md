@@ -17,7 +17,7 @@ He appears to be actively engaged in both professional IT endeavors and creative
 ```
 #CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #Performance, #Tooling
 ```
-### 💻 sysadmin & support
+### 💻 Information Technology 
 ```
 #PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
 ```
