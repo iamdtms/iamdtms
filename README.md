@@ -1,6 +1,6 @@
 ## 👤 About me 
 
-Hybrid designer/developer with 15 years of experience crafting clean, accessible, and high-performing web interfaces. Combines the creativity of UX design with the precision of frontend engineering. Passionate about web standards, open source, and creating inclusive experiences that look great.
+I'm an information technology professional and hybrid designer/developer with 15 years of experience crafting clean, accessible, and high-performing web interfaces. Combines the creativity of UX design with the precision of frontend engineering. Passionate about web standards, open source, and creating inclusive experiences that look great.
 
 [iamdtms](https://iamdtms.hu) has a strong background in various aspects of information technology and web design, showcasing his work on platforms like GitHub and CodePen. 
 
