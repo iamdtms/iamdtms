@@ -1,4 +1,12 @@
-## 👤 About me 
+```
+┬   ╭─╮   ╭┬╮   ┌─╮  ─┬─  ╭┬╮   ╭─╮                                            
+│   │ │   │││   │ │   │   │││   │                                              
+│   ├─┤   │ │   │ │   │   │ │   ╰─╮                                            
+│   │ │   │ │   │ │   │   │ │     │                                            
+┴   ╵ ╵   ╵ ╵   └─╯   ╵   ╵ ╵   ╰─╯                                             
+```
+
+## 👤 About me
 
 I'm an information technology professional and hybrid designer/developer with 15 years of experience crafting clean, accessible, and high-performing web interfaces. Combines the creativity of UX design with the precision of frontend engineering. Passionate about web standards, open source.
 
