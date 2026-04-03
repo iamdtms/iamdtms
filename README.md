@@ -1,4 +1,4 @@
-## 👤 About me - [iamdtms.hu](https://iamdtms.hu)
+## 👤 About [iamdtms](https://iamdtms.hu)
 
 I'm an information technology professional and hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combining the creativity of UX design with the precision of frontend engineering. I'm passionate about web standards and open source.
 
