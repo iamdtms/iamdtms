@@ -2,7 +2,7 @@
 
 I'm an information technology professional and hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combining the creativity of UIUX design with the precision of frontend engineering and I'm also passionate about web standards and open source.
 
-My skills span across UI/UX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm is also involved in open-source projects.
+My skills span across UIUX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm is also involved in open-source projects.
 
 I appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
