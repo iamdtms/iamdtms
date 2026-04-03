@@ -1,6 +1,6 @@
 ## 👤 About [iamdtms](https://iamdtms.hu)
 
-I'm an information technology professional and hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combining the creativity of UX design with the precision of frontend engineering. I'm passionate about web standards and open source.
+I'm an information technology professional and hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combining the creativity of UIUX design with the precision of frontend engineering and I'm also passionate about web standards and open source.
 
 My skills span across UI/UX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm is also involved in open-source projects.
 
