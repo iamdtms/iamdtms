@@ -9,15 +9,43 @@ I appears to be actively engaged in both professional IT endeavors and creative 
 ## 🪜 Levels of knowledge
 ### 🎨 design
 ```
-#UIUX, #Identity, #Typography, #Usability, #Accessibility, #Layouts, #LightDarkMode, #Colours
+UIUX
+Identity
+Typography
+Usability
+Accessibility
+Layouts
+LightDarkMode
+Colours
 ```
 ### 🧑‍💻 frontend
 ```
-#CSS, #HTML, #HtmlEmails, #Semantics, #jQuery, #ES5, #WebStandards, #i18n, #CSP, #GIT, #Performance, #Tooling
+CSS
+HTML
+HtmlEmails
+Semantics
+jQuery
+ES5
+WebStandards
+i18n
+CSP
+Lighthouse
+GIT
+Performance
+Tooling
 ```
 ### 💻 information technology 
 ```
-#PC, #Android, #Linux, #Windows, #VPN, #CLI, #Security, #Software, #Helping, #Users
+PC
+Android
+Linux
+Windows
+VPN
+CLI
+Security
+Software
+Helping
+Users
 ```
 ## 📊 Public repositories
 
