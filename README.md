@@ -4,7 +4,7 @@ I'm an information technology professional and hybrid designer/developer with 20
 
 My skills span across UIUX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm is also involved in open-source projects. I appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
-## 📊 Levels of knowledge
+## 📊 levels of knowledge
 ### 🎨 design
 ```
 UIUX
