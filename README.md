@@ -4,6 +4,21 @@ I'm an IT professional and senior hybrid designer/developer within 20 years of e
 
 My skills span across UIUX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm also involved in open-source projects. I appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
 
+### 🎨 design
+```
+UIUX Identity Typography Usability Accessibility Layouts LightDarkMode Colours 
+```
+
+### 🧑‍💻 frontend
+```
+CSS HTML HtmlEmails SemanticWeb jQuery ES5 WebStandards i18n CSP Lighthouse GIT PerformanceTooling
+```
+
+### 💻 information technology 
+```
+PC Android Linux Windows VPN CLI Security Software HelpingUsers
+```
+
 ## 🫙 Repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - Export of my feeds
