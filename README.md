@@ -1,6 +1,6 @@
 ## 👤 About [iamdtms](https://iamdtms.hu)
 
-I'm an IT professional and senior hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combines the creativity of UIUX design with the precision of frontend development. I'm passionate about web standards and open source.
+I'm an IT professional and senior hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combining the creativity of UIUX designer with the precision of frontend developer. I'm also passionate about web standards and open source.
 
 ## 🫙 Repositories
 
