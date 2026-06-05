@@ -2,50 +2,7 @@
 
 I'm an IT professional and senior hybrid designer/developer with 20 years of experience crafting clean, accessible, and high-performing web interfaces. I'm combines the creativity of UIUX design with the precision of frontend development. I'm passionate about web standards and open source.
 
-My skills span across UIUX design, web development, and IT infrastructure, with expertise in tools like CSS, HTML, JavaScript frameworks and web performance optimizations. I'm is also involved in open-source projects. I appears to be actively engaged in both professional IT endeavors and creative projects, maintaining a consistent online presence across multiple platforms.
-
-## 📊 levels of knowledge
-### 🎨 design
-```
-UIUX
-Identity
-Typography
-Usability
-Accessibility
-Layouts
-LightDarkMode
-Colours
-```
-### 🧑‍💻 frontend
-```
-CSS
-HTML
-HtmlEmails
-Semantics
-jQuery
-ES5
-WebStandards
-i18n
-CSP
-Lighthouse
-GIT
-Performance
-Tooling
-```
-### 💻 information technology 
-```
-PC
-Android
-Linux
-Windows
-VPN
-CLI
-Security
-Software
-Helping
-Users
-```
-## 📊 Public repositories
+## 🫙 Public repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - Export of my feeds
 - [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone)
