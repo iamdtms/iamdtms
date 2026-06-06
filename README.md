@@ -15,7 +15,7 @@ CSS HTML HtmlEmails SemanticWeb jQuery ES5 WebStandards i18n CSP Lighthouse GIT 
 PC Android Linux Windows VPN CLI Security Software HelpingUsers
 ```
 
-## 🫙 Repositories
+## 🫙 Popular repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - Export of my feeds
 - [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone)
