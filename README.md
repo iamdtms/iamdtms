@@ -2,17 +2,44 @@
 
 ### 🎨 design
 ```
-UIUX Identity Typography Usability Accessibility Layouts LightDarkMode Colours 
+UIUX
+Identity
+Typography
+Usability
+Accessibility
+Layouts
+LightDarkMode
+Colours 
 ```
 
 ### 🧑‍💻 frontend
 ```
-CSS HTML HtmlEmails SemanticWeb jQuery ES5 WebStandards i18n CSP Lighthouse GIT PerformanceTooling
+CSS
+HTML
+HtmlEmails
+SemanticWeb
+jQuery
+ES5
+WebStandards
+i18n
+CSP
+Lighthouse
+GIT
+Performance
+Tooling
 ```
 
 ### 💻 information technology 
 ```
-PC Android Linux Windows VPN CLI Security Software HelpingUsers
+PC
+Android
+Linux
+Windows
+VPN
+CLI
+Security
+Software
+HelpingUsers
 ```
 
 ## 🫙 Popular repositories
