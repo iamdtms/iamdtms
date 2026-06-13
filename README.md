@@ -42,7 +42,7 @@ Software
 HelpingUsers
 ```
 
-## 🫙 Popular repositories
+## 🫙 Repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - Export of my feeds
 - [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone)
