@@ -2,7 +2,7 @@
 
 I'm standing on these three pillars: 
 
-### 🎨 web design
+### 🎨 design
 ```
 UIUX
 Icons
