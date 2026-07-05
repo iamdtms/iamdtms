@@ -4,12 +4,10 @@ I'm standing on these three pillars:
 
 ### 🎨 design
 ```
-UIUX
+UI
 Icons
 Identity
 Typography
-Usability
-Accessibility
 Layouts
 LightDarkMode
 Colours
@@ -19,6 +17,8 @@ Colours
 ```
 CSS
 ResponsiveWebDesign
+Usability
+Accessibility
 HTML
 HtmlEmails
 SemanticWeb
