@@ -1,6 +1,8 @@
 ## 👤 about [iamdtms](https://iamdtms.hu)
 
-### 🎨 web designer
+My career first two decades standing on three pillars: 
+
+### 🎨 web design
 ```
 UIUX
 Identity
@@ -12,7 +14,7 @@ LightDarkMode
 Colours 
 ```
 
-### 🧑‍💻 frontend specialist
+### 🧑‍💻 frontend
 ```
 CSS
 HTML
@@ -29,7 +31,7 @@ Performance
 Tooling
 ```
 
-### 💻 IT professional
+### 💻 information technology
 ```
 PC
 Android
@@ -42,7 +44,7 @@ Software
 HelpingUsers
 ```
 
-## 🫙 repositories
+## 🫙 public repositories
 
 - [iamdtms-opml](https://github.com/iamdtms/iamdtms-opml) - Export of my feeds
 - [elk-hungarian](https://github.com/iamdtms/elk-hungarian) - Hungarian translation repository of [elk.zone](https://elk.zone)
