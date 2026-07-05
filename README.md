@@ -1,6 +1,6 @@
 ## 👤 about [iamdtms](https://iamdtms.hu)
 
-### 🎨 design
+### 🎨 web designer
 ```
 UIUX
 Identity
@@ -12,7 +12,7 @@ LightDarkMode
 Colours 
 ```
 
-### 🧑‍💻 frontend
+### 🧑‍💻 frontend specialist
 ```
 CSS
 HTML
@@ -29,7 +29,7 @@ Performance
 Tooling
 ```
 
-### 💻 information technology 
+### 💻 IT professional
 ```
 PC
 Android
