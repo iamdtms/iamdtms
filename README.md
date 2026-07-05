@@ -1,6 +1,6 @@
 ## 👤 about [iamdtms](https://iamdtms.hu)
 
-My career first two decades standing on three pillars: 
+I'm standing on these three pillars: 
 
 ### 🎨 web design
 ```
