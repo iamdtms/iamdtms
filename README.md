@@ -17,7 +17,6 @@ Colours
 
 ### 🧑‍💻 frontend
 ```
-Frontend
 CSS
 ResponsiveWebDesign
 HTML
@@ -36,7 +35,6 @@ Tooling
 
 ### 💻 information technology
 ```
-InformationTechnology
 PC
 Android
 Linux
