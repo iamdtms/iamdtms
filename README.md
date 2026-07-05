@@ -33,7 +33,7 @@ Performance
 Tooling
 ```
 
-### 💻 information technology
+### 💻 technology
 ```
 PC
 Android
