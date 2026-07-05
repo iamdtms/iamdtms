@@ -2,7 +2,7 @@
 
 I'm standing on these three pillars: 
 
-### 🎨 design
+### 📱 design
 ```
 UI
 Icons
