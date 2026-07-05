@@ -5,18 +5,21 @@ I'm standing on these three pillars:
 ### 🎨 web design
 ```
 UIUX
+Icons
 Identity
 Typography
 Usability
 Accessibility
 Layouts
 LightDarkMode
-Colours 
+Colours
 ```
 
 ### 🧑‍💻 frontend
 ```
+Frontend
 CSS
+ResponsiveWebDesign
 HTML
 HtmlEmails
 SemanticWeb
@@ -33,6 +36,7 @@ Tooling
 
 ### 💻 information technology
 ```
+InformationTechnology
 PC
 Android
 Linux
@@ -42,6 +46,9 @@ CLI
 Security
 Software
 HelpingUsers
+FOSS
+OpenSource
+FreeSoftware
 ```
 
 ## 🫙 public repositories
