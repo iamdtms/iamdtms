@@ -4,7 +4,7 @@ I'm standing on these three pillars:
 
 ### 📱 design
 ```
-UI
+UIUX
 Icons
 Identity
 Typography
