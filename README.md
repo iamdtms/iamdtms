@@ -17,12 +17,14 @@ Colours
 ```
 CSS
 ResponsiveWebDesign
+UX
 Usability
 Accessibility
 HTML
 HtmlEmails
 SemanticWeb
 jQuery
+JavaScript
 ES5
 WebStandards
 i18n
