@@ -1,6 +1,6 @@
 ## 👤 about [iamdtms](https://iamdtms.hu)
 
-I'm just wondering what's going to happen. My career standing on three pillars:
+My career standing on three pillars:
 
 ### 📱 design
 ```
