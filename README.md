@@ -11,15 +11,15 @@ Typography
 Layouts
 LightDarkMode
 Colours
+UX
+Usability
+Accessibility
 ```
 
 ### 🧑‍💻 frontend
 ```
 CSS
 ResponsiveWebDesign
-UX
-Usability
-Accessibility
 HTML
 HtmlEmails
 SemanticWeb
