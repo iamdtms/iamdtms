@@ -43,6 +43,7 @@ Linux
 Windows
 VPN
 CLI
+AI
 Security
 Software
 HelpingUsers
