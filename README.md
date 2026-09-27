@@ -3,15 +3,18 @@
 My career standing on three pillars:
 
 ### 📱 design
+
+**UI**
 ```
-UI
 Icons
 Identity
 Typography
 Layouts
 LightDarkMode
 Colours
-UX
+```
+**UX**
+```
 Usability
 Accessibility
 ```
@@ -47,9 +50,7 @@ AI
 Security
 Software
 HelpingUsers
-FOSS
-OpenSource
-FreeSoftware
+OSS
 ```
 
 ## 🫙 public repositories
