@@ -20,15 +20,26 @@ Accessibility
 ```
 
 ### 🧑‍💻 frontend
+
+**HTML**
 ```
-CSS
-ResponsiveWebDesign
-HTML
 HtmlEmails
 SemanticWeb
-jQuery
-JavaScript
+```
+
+**CSS**
+```
+ResponsiveWebDesign
+```
+
+**JavaScript**
+```
 ES5
+jQuery
+```
+
+**Etc**
+```
 WebStandards
 i18n
 CSP
