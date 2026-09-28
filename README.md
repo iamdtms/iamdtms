@@ -17,6 +17,7 @@ Colours
 ```
 Usability
 Accessibility
+SEO
 ```
 
 ### 🧑‍💻 frontend
