@@ -30,7 +30,7 @@ SemanticWeb
 
 **CSS**
 ```
-ResponsiveWebDesign
+RWD
 ```
 
 **JavaScript**
