@@ -4,7 +4,7 @@ My career standing on three pillars:
 
 ### 📱 design
 
-🌈**UI**
+🌈 **UI**
 ```
 Icons
 Identity
@@ -13,7 +13,7 @@ Layouts
 LightDarkMode
 Colours
 ```
-🪪**UX**
+🪪 **UX**
 ```
 Usability
 Accessibility
