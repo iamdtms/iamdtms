@@ -38,6 +38,7 @@ CSS Doodle
 
 **JavaScript**
 ```
+DOM
 ES5
 jQuery
 ```
