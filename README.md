@@ -33,6 +33,7 @@ SemanticWeb
 RWD
 Media queries
 Container queries
+CSS Doodle
 ```
 
 **JavaScript**
@@ -43,6 +44,7 @@ jQuery
 
 **Etc**
 ```
+FontAwesome
 WebStandards
 i18n
 CSP
@@ -50,6 +52,7 @@ Lighthouse
 GIT
 Performance
 Tooling
+OG
 ```
 
 ### 💻 technology
