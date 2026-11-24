@@ -1,8 +1,6 @@
 ## 👤 about [iamdtms](https://iamdtms.hu)
 
-I'm a hybrid digital professional working at the intersection of design, frontend development, and IT. I combine visual communication, web technologies, and technical problem-solving to create and improve digital interfaces and web experiences.
-
-With experience across diverse business and creative environments, I bring a multidisciplinary perspective to digital projects—connecting design intent with practical implementation.
+I’m a hybrid digital professional working at the intersection of design, frontend, and IT. I combine visual communication, web technologies, and technical problem-solving to create and improve digital interfaces and web experiences.
 
 ### 📱 design
 
